@@ -1,3 +1,5 @@
+# Registration Number: 224002745
+
 # Lab 2: Country Schools Data Analysis
 
 ## 1. Introduction
